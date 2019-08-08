@@ -1,2 +1,2 @@
 # MiBlog
-Ejecicios para actualización de conocimientos de git y github
+Ejercicios para actualización de conocimientos de git y github 2019
