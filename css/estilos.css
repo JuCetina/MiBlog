@@ -34,6 +34,13 @@ body{
     font-size: 20px;
 }
 
+#footer{
+    background: #777;
+    color: white;
+    padding: 0.5em; 
+    text-align: center;
+}
+
 #post{
     padding: 1em;
 }
